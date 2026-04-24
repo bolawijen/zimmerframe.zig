@@ -1,6 +1,7 @@
 .{
-    .name = "walker",
+    .name = .walker,
     .version = "0.1.0",
+    .fingerprint = 0x904421af5317d3fa,
     .paths = .{
         "build.zig",
         "build.zig.zon",
